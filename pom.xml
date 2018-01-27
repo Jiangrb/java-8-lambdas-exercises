@@ -8,6 +8,14 @@
     <name>lambdas-book-examples</name>
     <url>http://maven.apache.org</url>
 
+	<distributionManagement>
+    <repository>
+        <id>8ed81204d1b8</id>
+        <name>8ed81204d1b8-releases</name>
+        <url>http://192.168.99.100:8084/artifactory/ext-release-local</url>
+    </repository>
+	</distributionManagement>
+
     <build>
         <plugins>
             <plugin>
