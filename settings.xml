@@ -3,14 +3,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <servers>
     <server>
-      <username>Luffy</username>
-	  <password>123456</password>
-      <id>central</id>
+      <username>admin</username>
+	  <password>password</password>
+      <id>8ed81204d1b8</id>
     </server>
     <server>
-      <username>Luffy</username>
-	  <password>123456</password>
-      <id>snapshots</id>
+      <username>admin</username>
+	  <password>password</password>
+      <id>8ed81204d1b8</id>
     </server>
   </servers>
   <mirrors>
